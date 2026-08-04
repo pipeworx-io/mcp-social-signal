@@ -2,6 +2,8 @@
 
 How much a topic is being discussed across social networks, and how active an account is. Keyless.
 
+Part of [Pipeworx](https://pipeworx.io) — an MCP gateway connecting AI agents to 1394+ live data sources.
+
 ## Tools
 
 - `social_topic_volume(...)` — post counts for a topic over time, bucketed, across Bluesky, Mastodon, Reddit and Hacker News.
@@ -68,7 +70,7 @@ The gateway picks the right tool and fills the arguments automatically.
 
 ## More
 
-- [All tools and guides](https://github.com/pipeworx-io/examples)
+- [Docs and guides](https://pipeworx.io/docs)
 - [pipeworx.io](https://pipeworx.io)
 
 ## License
