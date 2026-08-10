@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/social-signal",
   "title": "Social Signal",
   "description": "Social Signal — post-VOLUME TIME SERIES across the open social networks that",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/social-signal",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-social-signal",

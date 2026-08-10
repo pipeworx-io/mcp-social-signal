@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-social-signal",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Social Signal — post-VOLUME TIME SERIES across the open social networks that",
   "type": "module",
   "main": "src/index.ts",
