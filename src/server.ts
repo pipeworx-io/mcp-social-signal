@@ -9,7 +9,7 @@ import { CallToolRequestSchema, ListToolsRequestSchema } from '@modelcontextprot
 import pack from './index.js';
 
 const server = new Server(
-  { name: '@pipeworx/mcp-social-signal', version: '0.1.2' },
+  { name: '@pipeworx/mcp-social-signal', version: '0.1.3' },
   { capabilities: { tools: {} } },
 );
 
