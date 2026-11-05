@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-social-signal",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Social Signal — post-VOLUME TIME SERIES across the open social networks that can be read without an API key.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "social-signal",
     "gatewaySlug": "social-signal",
-    "sourceHash": "v1-982c238a5bf031e1239a075cca684d56fbc054d36f4cc21474fdaa82477f56cb",
-    "sourceCommit": "f47d581679e1e887373df51ba623f891fbe4c464"
+    "sourceHash": "v1-6971a20ccf82fe55ae0c52f903c2dd3a97d711dbeca17be7d00252285f45c510",
+    "sourceCommit": "8fc802aa5e23be625ce08d97178f5676c7bc93f3"
   }
 }
